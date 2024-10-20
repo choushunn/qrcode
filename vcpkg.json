@@ -1,0 +1,9 @@
+{
+	"name": "entension-packages",
+	"version-string": "1.1.0",
+	"dependencies": [
+		"spdlog",
+                "opencv4",
+                "ncnn"
+	]
+}
